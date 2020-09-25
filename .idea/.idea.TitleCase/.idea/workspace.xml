@@ -17,9 +17,9 @@
         <option value="$PROJECT_DIR$/TitleCase.Test/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/TitleCase/Utilities.cs" />
         <option value="$PROJECT_DIR$/TitleCase/README.md" />
-        <option value="$PROJECT_DIR$/TitleCase.Test/BasicTests.cs" />
         <option value="$PROJECT_DIR$/TitleCase.Test/AdvancedTests.cs" />
         <option value="$PROJECT_DIR$/TitleCase/StringUtilities.cs" />
+        <option value="$PROJECT_DIR$/TitleCase.Test/BasicTests.cs" />
       </list>
     </option>
   </component>
@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601042902079</updated>
-      <workItem from="1601042906157" duration="2147000" />
+      <workItem from="1601042906157" duration="2450000" />
     </task>
     <servers />
   </component>

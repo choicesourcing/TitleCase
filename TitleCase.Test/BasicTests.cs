@@ -3,7 +3,7 @@ using Xunit;
 
 namespace TitleCase.Test
 {
-    public class UnitTest1
+    public class BasicTests
     {
         [Theory]
         [InlineData("a clash of KINGS", "a an the of", "A Clash of Kings")]
